@@ -296,7 +296,7 @@
             "last_commit": "2026-08-24T05:27:21Z",
             "owner": "nlewo",
             "repo": "comin",
-            "stars": 982
+            "stars": 983
           }
         },
         {
@@ -407,7 +407,7 @@
             "last_commit": "2026-08-24T06:00:47Z",
             "owner": "microvm-nix",
             "repo": "microvm.nix",
-            "stars": 2876
+            "stars": 2877
           }
         },
         {
@@ -470,10 +470,10 @@
             "archived": false,
             "id": 555988330,
             "language": "Rust",
-            "last_commit": "2026-08-24T02:59:38Z",
+            "last_commit": "2026-08-24T14:07:46Z",
             "owner": "cachix",
             "repo": "devenv",
-            "stars": 7346
+            "stars": 7347
           }
         },
         {
@@ -533,7 +533,7 @@
             "last_commit": "2026-08-18T18:23:16Z",
             "owner": "NixOS",
             "repo": "nixfmt",
-            "stars": 1590
+            "stars": 1591
           }
         },
         {
@@ -809,7 +809,7 @@
             "last_commit": "2026-08-18T14:17:04Z",
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12297
+            "stars": 12298
           }
         },
         {
@@ -836,7 +836,7 @@
             "archived": false,
             "id": 211264092,
             "language": "Shell",
-            "last_commit": "2026-08-23T02:32:21Z",
+            "last_commit": "2026-08-24T14:52:58Z",
             "owner": "nix-community",
             "repo": "nix-direnv",
             "stars": 2761
@@ -854,7 +854,7 @@
             "last_commit": "2026-08-22T18:43:24Z",
             "owner": "zhaofengli",
             "repo": "attic",
-            "stars": 2028
+            "stars": 2029
           }
         },
         {
@@ -1752,7 +1752,7 @@
                 "archived": false,
                 "id": 378579961,
                 "language": "Nix",
-                "last_commit": "2026-08-17T14:06:26Z",
+                "last_commit": "2026-08-24T14:07:55Z",
                 "owner": "loophp",
                 "repo": "nix-shell",
                 "stars": 179
@@ -2108,7 +2108,7 @@
             "last_commit": "2026-08-24T09:36:48Z",
             "owner": "nix-community",
             "repo": "home-manager",
-            "stars": 10274
+            "stars": 10275
           }
         },
         {
@@ -2123,7 +2123,7 @@
             "last_commit": "2026-08-16T02:32:30Z",
             "owner": "nix-darwin",
             "repo": "nix-darwin",
-            "stars": 5868
+            "stars": 5869
           }
         },
         {
@@ -2364,7 +2364,7 @@
             "archived": false,
             "id": 123327588,
             "language": "Python",
-            "last_commit": "2026-08-24T13:34:19Z",
+            "last_commit": "2026-08-24T14:22:26Z",
             "owner": "nix-community",
             "repo": "NUR",
             "stars": 1932
@@ -2531,7 +2531,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:15.088Z",
+    "last_updated": "2026-08-24T15:18:45.725Z",
     "original_repository": "nix-community/awesome-nix",
     "original_repository_id": 186849419,
     "original_repository_sha": "ecbb552376aef2bcf1614c0879dcd4268f59da6b",
