@@ -12,7 +12,7 @@ A curated list of the best resources in the Nix community.
 
 <br>
 
-[Nix](https://github.com/nixos/nix) ⭐ 17,983 | 🐛 3,038 | 🌐 C++ | 📅 2026-11-07 is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+[Nix](https://github.com/nixos/nix) ⭐ 17,986 | 🐛 3,036 | 🌐 C++ | 📅 2026-11-08 is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
@@ -58,7 +58,7 @@ A curated list of the best resources in the Nix community.
 
 ### Learning
 
-* [Nix Starter Config](https://github.com/Misterio77/nix-starter-configs) ⭐ 3,851 | 🐛 16 | 🌐 Nix | 📅 2026-04-24 - A few simple Nix Flake templates for getting started with NixOS + home-manager.
+* [Nix Starter Config](https://github.com/Misterio77/nix-starter-configs) ⭐ 3,852 | 🐛 16 | 🌐 Nix | 📅 2026-04-24 - A few simple Nix Flake templates for getting started with NixOS + home-manager.
 * [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) ⭐ 3,329 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [Nix Notes](https://github.com/noteed/nix-notes) ⭐ 60 | 🐛 0 | 🌐 Nix | 📅 2026-10-29 - A collection of short notes about Nix, each contributing to the same virtual machine image.
 * [Nix Shorts](https://github.com/alper/nix-shorts) ⭐ 24 | 🐛 0 | 🌐 Nix | 📅 2024-01-25 - A collection of short notes about how to use Nix, updated for Nix Flakes.
@@ -89,7 +89,7 @@ A curated list of the best resources in the Nix community.
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 
 * [nix-search-tv](https://github.com/3timeslazy/nix-search-tv) ⭐ 285 | 🐛 1 | 🌐 Go | 📅 2026-10-22 - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
-* [NüschtOS Search](https://github.com/NuschtOS/search) ⭐ 173 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-04 - Simple and fast static-page NixOS option search.
+* [NüschtOS Search](https://github.com/NuschtOS/search) ⭐ 173 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-08 - Simple and fast static-page NixOS option search.
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
 * [Nix Software](https://nixsoftware.org/en/) - Friendly package search. Supports logos, screenshots, categories, and translations into multiple languages.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
@@ -97,8 +97,8 @@ A curated list of the best resources in the Nix community.
 
 ## Installation Media
 
-* [nix-installer](https://github.com/DeterminateSystems/nix-installer) ⭐ 3,716 | 🐛 448 | 🌐 Rust | 📅 2026-11-05 - Opinionated alternative to the official Nix install scripts.
-* [nixos-anywhere](https://github.com/nix-community/nixos-anywhere) ⭐ 3,564 | 🐛 108 | 🌐 Shell | 📅 2026-11-04 - Install NixOS everywhere via SSH.
+* [nix-installer](https://github.com/DeterminateSystems/nix-installer) ⭐ 3,716 | 🐛 449 | 🌐 Rust | 📅 2026-11-08 - Opinionated alternative to the official Nix install scripts.
+* [nixos-anywhere](https://github.com/nix-community/nixos-anywhere) ⭐ 3,567 | 🐛 109 | 🌐 Shell | 📅 2026-11-04 - Install NixOS everywhere via SSH.
 * [nixos-generators](https://github.com/nix-community/nixos-generators) ⚠️ Archived -  Take a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
 * [nixos-infect](https://github.com/elitak/nixos-infect) ⭐ 1,945 | 🐛 75 | 🌐 Shell | 📅 2026-03-22 - Replace a running non-NixOS Linux host with NixOS.
 * [nixos-up](https://github.com/samuela/nixos-up) ⭐ 257 | 🐛 7 | 🌐 Python | 📅 2025-04-19 - Super easy NixOS installer that can be used from the installation ISO.
@@ -116,14 +116,14 @@ A curated list of the best resources in the Nix community.
 
 ## Deployment Tools
 
-* [Colmena](https://github.com/nix-community/colmena) ⭐ 2,434 | 🐛 145 | 🌐 Rust | 📅 2026-11-06 - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
-* [deploy-rs](https://github.com/serokell/deploy-rs) ⭐ 2,414 | 🐛 136 | 🌐 Rust | 📅 2026-11-02 - A simple multi-profile Nix-flake deploy tool.
+* [Colmena](https://github.com/nix-community/colmena) ⭐ 2,436 | 🐛 137 | 🌐 Rust | 📅 2026-11-08 - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+* [deploy-rs](https://github.com/serokell/deploy-rs) ⭐ 2,416 | 🐛 136 | 🌐 Rust | 📅 2026-11-02 - A simple multi-profile Nix-flake deploy tool.
 * [NixOps](https://github.com/NixOS/nixops) ⭐ 2,213 | 🐛 327 | 🌐 Python | 📅 2025-12-28 - The official Nix deployment tool, compatible with AWS, Hetzner, and more.
 * [Nixery](https://github.com/tazjin/nixery) ⭐ 2,024 | 🐛 35 | 🌐 Go | 📅 2026-10-29 - A Docker-compatible container registry which builds images ad-hoc via Nix.
-* [comin](https://github.com/nlewo/comin) ⭐ 1,181 | 🐛 52 | 🌐 Go | 📅 2026-11-05 - A deployment tool to continuously pull from Git repositories.
+* [comin](https://github.com/nlewo/comin) ⭐ 1,182 | 🐛 52 | 🌐 Go | 📅 2026-11-05 - A deployment tool to continuously pull from Git repositories.
 * [morph](https://github.com/DBCDK/morph) ⭐ 1,069 | 🐛 57 | 🌐 Go | 📅 2026-07-20 - A tool for managing existing NixOS hosts.
 * [KuberNix](https://github.com/saschagrunert/kubernix) ⭐ 830 | 🐛 0 | 🌐 Rust | 📅 2026-11-04 - Single-dependency Kubernetes clusters via Nix packages.
-* [KubeNix](https://github.com/hall/kubenix) ⭐ 527 | 🐛 29 | 🌐 Nix | 📅 2026-11-01 - A Kubernetes resource builder using Nix.
+* [KubeNix](https://github.com/hall/kubenix) ⭐ 526 | 🐛 29 | 🌐 Nix | 📅 2026-11-08 - A Kubernetes resource builder using Nix.
 * [terraform-nixos](https://github.com/nix-community/terraform-nixos) ⭐ 423 | 🐛 33 | 🌐 HCL | 📅 2024-08-04 - A set of Terraform modules designed to deploy NixOS.
 * [bento](https://github.com/rapenne-s/bento/) ⭐ 331 | 🐛 3 | 🌐 Shell | 📅 2024-12-29 - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 * [Nixinate](https://github.com/MatthewCroughan/nixinate) ⭐ 287 | 🐛 21 | 🌐 Nix | 📅 2025-03-23 - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
@@ -135,26 +135,26 @@ A curated list of the best resources in the Nix community.
 
 ## Virtualisation
 
-* [microvm](https://github.com/microvm-nix/microvm.nix) ⭐ 3,063 | 🐛 48 | 🌐 Nix | 📅 2026-11-02 - NixOS-based MicroVMs.
+* [microvm](https://github.com/microvm-nix/microvm.nix) ⭐ 3,072 | 🐛 48 | 🌐 Nix | 📅 2026-11-02 - NixOS-based MicroVMs.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) ⭐ 924 | 🐛 13 | 🌐 Nix | 📅 2026-11-03 - Simple headless VM configuration using Nix (similar to Vagrant).
 * [extra-container](https://github.com/erikarvstedt/extra-container) ⭐ 307 | 🐛 5 | 🌐 Shell | 📅 2026-01-10 - Run declarative NixOS containers from the command line.
-* [agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) ⭐ 205 | 🐛 2 | 🌐 Python | 📅 2026-11-05 - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
+* [agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) ⭐ 206 | 🐛 3 | 🌐 Python | 📅 2026-11-08 - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
 
 ## Command-Line Tools
 
-* [devenv](https://github.com/cachix/devenv) ⭐ 7,811 | 🐛 379 | 🌐 Rust | 📅 2026-11-04 - A Nix-based tool for creating developer shell environments quickly and reproducibly.
-* [nh](https://github.com/nix-community/nh) ⭐ 3,356 | 🐛 86 | 🌐 Rust | 📅 2026-11-03 - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`.
-* [comma](https://github.com/nix-community/comma) ⭐ 1,804 | 🐛 12 | 🌐 Rust | 📅 2026-09-25 - Quickly run any binary; wraps together `nix run` and `nix-index`.
-* [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) ⭐ 1,694 | 🐛 116 | 🌐 Haskell | 📅 2026-10-19 - A tool to produce useful graphs and statistics when building derivations.
-* [nixfmt](https://github.com/NixOS/nixfmt) ⭐ 1,637 | 🐛 23 | 🌐 Haskell | 📅 2026-11-04 - A formatter for Nix code, intended to easily apply a uniform style.
-* [nix-init](https://github.com/nix-community/nix-init) ⭐ 1,491 | 🐛 28 | 🌐 Rust | 📅 2026-11-05 - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
-* [alejandra](https://github.com/kamadorueda/alejandra) ⭐ 1,422 | 🐛 45 | 🌐 Nix | 📅 2026-11-06 - An opinionated Nix code formatter optimized for speed and consistency.
-* [nix-index](https://github.com/nix-community/nix-index) ⭐ 1,370 | 🐛 99 | 🌐 Rust | 📅 2026-11-05 - Quickly locate Nix packages with specific files.
-* [nix-tree](https://github.com/utdemir/nix-tree) ⭐ 1,088 | 🐛 20 | 🌐 Haskell | 📅 2026-11-01 - Interactively browse the dependency graph of Nix derivations.
+* [devenv](https://github.com/cachix/devenv) ⭐ 7,815 | 🐛 384 | 🌐 Rust | 📅 2026-11-04 - A Nix-based tool for creating developer shell environments quickly and reproducibly.
+* [nh](https://github.com/nix-community/nh) ⭐ 3,356 | 🐛 87 | 🌐 Rust | 📅 2026-11-03 - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`.
+* [comma](https://github.com/nix-community/comma) ⭐ 1,803 | 🐛 12 | 🌐 Rust | 📅 2026-09-25 - Quickly run any binary; wraps together `nix run` and `nix-index`.
+* [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) ⭐ 1,695 | 🐛 116 | 🌐 Haskell | 📅 2026-10-19 - A tool to produce useful graphs and statistics when building derivations.
+* [nixfmt](https://github.com/NixOS/nixfmt) ⭐ 1,638 | 🐛 23 | 🌐 Haskell | 📅 2026-11-04 - A formatter for Nix code, intended to easily apply a uniform style.
+* [nix-init](https://github.com/nix-community/nix-init) ⭐ 1,492 | 🐛 28 | 🌐 Rust | 📅 2026-11-05 - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more.
+* [alejandra](https://github.com/kamadorueda/alejandra) ⭐ 1,422 | 🐛 45 | 🌐 Nix | 📅 2026-11-07 - An opinionated Nix code formatter optimized for speed and consistency.
+* [nix-index](https://github.com/nix-community/nix-index) ⭐ 1,369 | 🐛 98 | 🌐 Rust | 📅 2026-11-05 - Quickly locate Nix packages with specific files.
+* [nix-tree](https://github.com/utdemir/nix-tree) ⭐ 1,089 | 🐛 20 | 🌐 Haskell | 📅 2026-11-01 - Interactively browse the dependency graph of Nix derivations.
 * [statix](https://github.com/oppiliappan/statix) ⭐ 963 | 🐛 45 | 🌐 Rust | 📅 2026-07-26 - A linter/fixer to check for and fix antipatterns in Nix code.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) ⭐ 889 | 🐛 2 | 🌐 Python | 📅 2026-10-15 - Run unpatched binaries on Nix/NixOS easily.
 * [nurl](https://github.com/nix-community/nurl) ⭐ 802 | 🐛 18 | 🌐 Rust | 📅 2026-11-06 - Generate Nix fetcher calls from repository URLs.
-* [deadnix](https://github.com/astro/deadnix) ⭐ 794 | 🐛 7 | 🌐 Rust | 📅 2026-10-03 - Scan Nix files for dead code.
+* [deadnix](https://github.com/astro/deadnix) ⭐ 795 | 🐛 7 | 🌐 Rust | 📅 2026-10-03 - Scan Nix files for dead code.
 * [nix-diff](https://github.com/Gabriella439/nix-diff) ⭐ 504 | 🐛 15 | 🌐 Haskell | 📅 2026-06-10 - A tool to explain why two Nix derivations differ.
 * [nix-du](https://github.com/symphorien/nix-du) ⭐ 484 | 🐛 3 | 🌐 Rust | 📅 2026-07-15 - Visualise which gc-roots to delete to free some space in your Nix store.
 * [manix](https://github.com/mlvzk/manix) ⭐ 427 | 🐛 14 | 🌐 Rust | 📅 2024-01-28 - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
@@ -163,34 +163,34 @@ A curated list of the best resources in the Nix community.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) ⭐ 340 | 🐛 52 | 🌐 Nix | 📅 2026-11-02 - An opinionated linter for Nixpkgs package expressions.
 * [nix-melt](https://github.com/nix-community/nix-melt) ⭐ 315 | 🐛 5 | 🌐 Rust | 📅 2026-09-08 - A ranger-like flake.lock viewer.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) ⭐ 151 | 🐛 23 | 🌐 Shell | 📅 2023-03-06 - A universal tool for updating source checksums.
-* [angrr](https://github.com/linyinfeng/angrr) ⭐ 148 | 🐛 6 | 🌐 Rust | 📅 2026-11-06 - Auto Nix GC Roots Retention. This tool simply deletes auto GC roots based on the modified time of their symbolic link target.
+* [angrr](https://github.com/linyinfeng/angrr) ⭐ 148 | 🐛 5 | 🌐 Rust | 📅 2026-11-08 - Auto Nix GC Roots Retention. This tool simply deletes auto GC roots based on the modified time of their symbolic link target.
 * [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [optnix](https://git.sr.ht/~watersucks/optnix) - A terminal-based options searcher for Nix module systems.
 
 ## Development
 
-* [Devbox](https://github.com/jetify-com/devbox) ⭐ 12,448 | 🐛 412 | 🌐 Go | 📅 2026-11-06 - Instant, portable, and predictable development environments.
-* [flox](https://github.com/flox/flox) ⭐ 4,197 | 🐛 459 | 🌐 Rust | 📅 2026-11-05 - Manage and share development environments, package projects, and publish artifacts anywhere.
-* [nix-direnv](https://github.com/nix-community/nix-direnv) ⭐ 2,817 | 🐛 8 | 🌐 Shell | 📅 2026-11-04 - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
-* [attic](https://github.com/zhaofengli/attic) ⭐ 2,148 | 🐛 180 | 🌐 Rust | 📅 2026-11-05 - Multi-tenant Nix Binary Cache.
+* [Devbox](https://github.com/jetify-com/devbox) ⭐ 12,449 | 🐛 412 | 🌐 Go | 📅 2026-11-08 - Instant, portable, and predictable development environments.
+* [flox](https://github.com/flox/flox) ⭐ 4,198 | 🐛 461 | 🌐 Rust | 📅 2026-11-05 - Manage and share development environments, package projects, and publish artifacts anywhere.
+* [nix-direnv](https://github.com/nix-community/nix-direnv) ⭐ 2,817 | 🐛 8 | 🌐 Shell | 📅 2026-11-08 - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+* [attic](https://github.com/zhaofengli/attic) ⭐ 2,150 | 🐛 180 | 🌐 Rust | 📅 2026-11-05 - Multi-tenant Nix Binary Cache.
 * [nil](https://github.com/oxalica/nil) ⭐ 1,926 | 🐛 38 | 🌐 Rust | 📅 2026-07-26 - NIx Language server, an incremental analysis assistent for writing in Nix.
 * [niv](https://github.com/nmattia/niv/) ⭐ 1,869 | 🐛 87 | 🌐 Haskell | 📅 2026-09-11 - Easy dependency management for Nix projects with package pinning.
 * [flake-utils](https://github.com/numtide/flake-utils) ⭐ 1,652 | 🐛 24 | 🌐 Nix | 📅 2026-10-13 - Pure Nix flake utility functions to help with writing flakes.
 * [devshell](https://github.com/numtide/devshell) ⭐ 1,570 | 🐛 98 | 🌐 Nix | 📅 2026-10-15 - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-* [flake.parts](https://github.com/hercules-ci/flake-parts) ⭐ 1,512 | 🐛 73 | 🌐 Nix | 📅 2026-11-01 - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
+* [flake.parts](https://github.com/hercules-ci/flake-parts) ⭐ 1,515 | 🐛 73 | 🌐 Nix | 📅 2026-11-01 - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
 * [nixd](https://github.com/nix-community/nixd) ⭐ 1,510 | 🐛 108 | 🌐 C++ | 📅 2026-11-02 - Nix language server, based on Nix libraries.
 * [dream2nix](https://github.com/nix-community/dream2nix) ⭐ 1,270 | 🐛 202 | 🌐 Nix | 📅 2026-08-19 - A framework for automatically converting packages from other build systems to Nix.
-* [nix2container](https://github.com/nlewo/nix2container) ⭐ 943 | 🐛 88 | 🌐 Go | 📅 2026-10-30 - An efficient container building workflow with Nix.
-* [Arion](https://github.com/hercules-ci/arion) ⭐ 926 | 🐛 102 | 🌐 Nix | 📅 2026-11-05 - Run `docker-compose` with help from Nix/NixOS.
+* [nix2container](https://github.com/nlewo/nix2container) ⭐ 945 | 🐛 88 | 🌐 Go | 📅 2026-10-30 - An efficient container building workflow with Nix.
+* [Arion](https://github.com/hercules-ci/arion) ⭐ 927 | 🐛 102 | 🌐 Nix | 📅 2026-11-05 - Run `docker-compose` with help from Nix/NixOS.
 * [compose2nix](https://github.com/aksiksi/compose2nix) ⭐ 914 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - Generate a NixOS config from a Docker Compose project.
-* [nix-update](https://github.com/Mic92/nix-update) ⭐ 898 | 🐛 56 | 🌐 Python | 📅 2026-11-03 - Update versions/source hashes of nix packages.
+* [nix-update](https://github.com/Mic92/nix-update) ⭐ 899 | 🐛 57 | 🌐 Python | 📅 2026-11-08 - Update versions/source hashes of nix packages.
 * [pre-commit-hooks.nix](https://github.com/cachix/git-hooks.nix) ⭐ 880 | 🐛 103 | 🌐 Nix | 📅 2026-11-05 - Run linters/formatters at commit time and on your CI.
-* [MCP-NixOS](https://github.com/utensils/mcp-nixos) ⭐ 879 | 🐛 3 | 🌐 Python | 📅 2026-10-26 - An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and nix-darwin configurations.
+* [MCP-NixOS](https://github.com/utensils/mcp-nixos) ⭐ 879 | 🐛 1 | 🌐 Python | 📅 2026-11-08 - An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and nix-darwin configurations.
 * [lorri](https://github.com/nix-community/lorri/) ⭐ 878 | 🐛 25 | 🌐 Go | 📅 2026-04-29 - A much better `nix-shell` for development that augments direnv.
 * [robotnix](https://github.com/nix-community/robotnix) ⭐ 817 | 🐛 80 | 🌐 Nix | 📅 2026-10-25 - A declarative and reproducible build system for Android (AOSP) images.
-* [services-flake](https://github.com/juspay/services-flake) ⭐ 781 | 🐛 58 | 🌐 Nix | 📅 2026-11-04 - A NixOS-like service configuration framework for Nix flakes.
+* [services-flake](https://github.com/juspay/services-flake) ⭐ 781 | 🐛 57 | 🌐 Nix | 📅 2026-11-08 - A NixOS-like service configuration framework for Nix flakes.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) ⚠️ Archived - A syntax-checking language server for Nix.
-* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 664 | 🐛 90 | 🌐 Nix | 📅 2026-10-13 - A formatter that allows formatting all your project files with a single command, all via a single `.nix` file.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) ⭐ 664 | 🐛 89 | 🌐 Nix | 📅 2026-10-13 - A formatter that allows formatting all your project files with a single command, all via a single `.nix` file.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) ⭐ 648 | 🐛 74 | 🌐 Python | 📅 2026-11-07 - The best tool to verify that a pull-request in Nixpkgs is building properly.
 * [Snowfall Lib](https://github.com/snowfallorg/lib) ⭐ 627 | 🐛 46 | 🌐 Nix | 📅 2026-07-17 - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 * [npins](https://github.com/andir/npins) ⭐ 586 | 🐛 34 | 🌐 Rust | 📅 2026-10-19 - A simple tool for handling different types of dependencies in a Nix project. It is inspired by and comparable to Niv.
@@ -202,7 +202,7 @@ A curated list of the best resources in the Nix community.
 * [pog](https://github.com/jpetrucciani/pog) ⭐ 207 | 🐛 3 | 🌐 Nix | 📅 2026-08-06 - A new, powerful way to do bash scripts. Pog is a powerful Nix library that transforms the way developers create command-line interfaces (CLIs).
 * [templates](https://github.com/nix-community/templates) ⭐ 158 | 🐛 0 | 🌐 Nix | 📅 2026-05-30 - Project templates for many languages using Nix flakes.
 * [namaka](https://github.com/nix-community/namaka) ⭐ 145 | 🐛 6 | 🌐 Rust | 📅 2026-10-21 - Snapshot testing for Nix based on haumea.
-* [nix-oci](https://github.com/Dauliac/nix-oci) ⭐ 118 | 🐛 4 | 🌐 Nix | 📅 2026-11-07 - A flake-parts module for building minimal, reproducible OCI containers using nix2container.
+* [nix-oci](https://github.com/Dauliac/nix-oci) ⭐ 118 | 🐛 4 | 🌐 Nix | 📅 2026-11-08 - A flake-parts module for building minimal, reproducible OCI containers using nix2container.
 * [flake-edit](https://github.com/a-kenji/flake-edit) ⭐ 110 | 🐛 8 | 🌐 Rust | 📅 2026-11-04 - Edit your flake inputs with auto-follows and update functionality directly from the CLI.
 * [nix-health](https://github.com/juspay/nix-health) ⭐ 49 | 🐛 9 | 🌐 Rust | 📅 2026-02-03 - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
 * [make-shell](https://github.com/nicknovitski/make-shell) ⭐ 38 | 🐛 8 | 🌐 Nix | 📅 2026-03-14 - `mkShell` meets modules, a modular almost-drop-in replacement for `pkgs.mkShell` function.
@@ -244,9 +244,9 @@ A curated list of the best resources in the Nix community.
 
 ### Haskell
 
-* [haskell.nix](https://github.com/input-output-hk/haskell.nix) ⭐ 634 | 🐛 86 | 🌐 Nix | 📅 2026-11-07 - Alternative Haskell Infrastructure for Nixpkgs.
-* [cabal2nix](https://github.com/NixOS/cabal2nix) ⭐ 402 | 🐛 99 | 🌐 Haskell | 📅 2026-11-06 - Converts a Cabal file into a Nix build expression.
-* [haskell-flake](https://github.com/srid/haskell-flake) ⭐ 241 | 🐛 41 | 🌐 Nix | 📅 2026-11-01 - A `flake-parts` Nix module for Haskell development.
+* [haskell.nix](https://github.com/input-output-hk/haskell.nix) ⭐ 634 | 🐛 85 | 🌐 Nix | 📅 2026-11-08 - Alternative Haskell Infrastructure for Nixpkgs.
+* [cabal2nix](https://github.com/NixOS/cabal2nix) ⭐ 402 | 🐛 99 | 🌐 Haskell | 📅 2026-11-08 - Converts a Cabal file into a Nix build expression.
+* [haskell-flake](https://github.com/srid/haskell-flake) ⭐ 241 | 🐛 41 | 🌐 Nix | 📅 2026-11-08 - A `flake-parts` Nix module for Haskell development.
 * [nixkell](https://github.com/pwm/nixkell) ⭐ 121 | 🐛 0 | 🌐 Nix | 📅 2025-06-18 - A Haskell project template using Nix and direnv.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) ⭐ 29 | 🐛 2 | 🌐 Emacs Lisp | 📅 2019-06-15 - Automatic Haskell setup in Emacs.
 
@@ -277,7 +277,7 @@ A curated list of the best resources in the Nix community.
 
 * [nix-shell](https://github.com/loophp/nix-shell/) ⭐ 177 | 🐛 7 | 🌐 Nix | 📅 2026-11-05 - Nix shells for PHP development.
 * [composer2nix](https://github.com/svanderburg/composer2nix) ⭐ 91 | 🐛 15 | 🌐 Nix | 📅 2026-09-27 - Generate Nix expressions to build composer packages.
-* [nix-phps](https://github.com/fossar/nix-phps) ⭐ 85 | 🐛 10 | 🌐 Nix | 📅 2026-11-01 - Flake containing old and unmaintained PHP versions (intended for CI use).
+* [nix-phps](https://github.com/fossar/nix-phps) ⭐ 85 | 🐛 10 | 🌐 Nix | 📅 2026-11-08 - Flake containing old and unmaintained PHP versions (intended for CI use).
 * [composer-plugin-nixify](https://github.com/stephank/composer-plugin-nixify) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2022-05-20 - Composer plugin to help with Nix packaging.
 * [composition-c4](https://github.com/fossar/composition-c4) ⭐ 13 | 🐛 2 | 🌐 Nix | 📅 2023-05-22 - Support for building composer packages from a `composer.lock` (using IFD).
 
@@ -288,8 +288,8 @@ A curated list of the best resources in the Nix community.
 
 ### Python
 
-* [poetry2nix](https://github.com/nix-community/poetry2nix) ⭐ 922 | 🐛 188 | 🌐 Nix | 📅 2026-11-07 - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
-* [uv2nix](https://github.com/pyproject-nix/uv2nix) ⭐ 795 | 🐛 3 | 🌐 Nix | 📅 2026-11-05 - Convert [`uv` workspaces](https://docs.astral.sh/uv/concepts/projects/workspaces/) into pure Nix derivations.
+* [poetry2nix](https://github.com/nix-community/poetry2nix) ⭐ 922 | 🐛 188 | 🌐 Nix | 📅 2026-11-08 - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
+* [uv2nix](https://github.com/pyproject-nix/uv2nix) ⭐ 796 | 🐛 3 | 🌐 Nix | 📅 2026-11-05 - Convert [`uv` workspaces](https://docs.astral.sh/uv/concepts/projects/workspaces/) into pure Nix derivations.
 
 ### Ruby
 
@@ -298,11 +298,11 @@ A curated list of the best resources in the Nix community.
 
 ### Rust
 
-* [crane](https://github.com/ipetkov/crane) ⭐ 1,497 | 🐛 43 | 🌐 Nix | 📅 2026-11-04 - A Nix library for building Cargo projects with incremental artifact caching.
-* [fenix](https://github.com/nix-community/fenix) ⭐ 1,133 | 🐛 40 | 🌐 Nix | 📅 2026-11-07 - Rust toolchains and Rust analyzer nightly for nix.
+* [crane](https://github.com/ipetkov/crane) ⭐ 1,498 | 🐛 43 | 🌐 Nix | 📅 2026-11-04 - A Nix library for building Cargo projects with incremental artifact caching.
+* [fenix](https://github.com/nix-community/fenix) ⭐ 1,136 | 🐛 40 | 🌐 Nix | 📅 2026-11-08 - Rust toolchains and Rust analyzer nightly for nix.
 * [naersk](https://github.com/nix-community/naersk) ⭐ 1,016 | 🐛 64 | 🌐 Nix | 📅 2026-10-15 - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 * [cargo2nix](https://github.com/cargo2nix/cargo2nix) ⭐ 470 | 🐛 79 | 🌐 Nix | 📅 2025-06-19 - Granular caching, development shell, Nix & Rust integration.
-* [nix-cargo-integration](https://github.com/90-008/nix-cargo-integration) ⭐ 217 | 🐛 5 | 🌐 Nix | 📅 2026-11-07 - A library that allows easy and effortless integration for Cargo projects.
+* [nix-cargo-integration](https://github.com/90-008/nix-cargo-integration) ⭐ 217 | 🐛 5 | 🌐 Nix | 📅 2026-11-08 - A library that allows easy and effortless integration for Cargo projects.
 * [rust-nix-templater](https://github.com/90-008/rust-nix-templater) ⚠️ Archived - Generates Nix build and development files for Rust projects.
 
 ### Scala
@@ -311,25 +311,25 @@ A curated list of the best resources in the Nix community.
 
 ### Zig
 
-* [zig2nix](https://github.com/Cloudef/zig2nix) ⭐ 195 | 🐛 7 | 🌐 Nix | 📅 2026-11-07 - Flake for packaging, building and running Zig projects.
+* [zig2nix](https://github.com/Cloudef/zig2nix) ⭐ 195 | 🐛 7 | 🌐 Nix | 📅 2026-11-08 - Flake for packaging, building and running Zig projects.
 * [zon2nix](https://github.com/nix-community/zon2nix) ⭐ 128 | 🐛 14 | 🌐 Zig | 📅 2026-09-14 - Convert the dependencies in `build.zig.zon` to a Nix expression.
 
 ## NixOS Modules
 
-* [Home Manager](https://github.com/nix-community/home-manager) ⭐ 10,498 | 🐛 982 | 🌐 Nix | 📅 2026-11-07 - Manage your user configuration just like NixOS.
-* [nix-darwin](https://github.com/nix-darwin/nix-darwin) ⭐ 6,057 | 🐛 486 | 🌐 Nix | 📅 2026-10-31 - Manage macOS configuration just like on NixOS.
-* [NixOS hardware](https://github.com/NixOS/nixos-hardware) ⭐ 3,353 | 🐛 335 | 🌐 Nix | 📅 2026-11-07 - NixOS profiles to optimize settings for different hardware.
-* [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) ⭐ 3,151 | 🐛 51 | 🌐 Nix | 📅 2026-11-06 - Modules for running NixOS on the Windows Subsystem for Linux.
+* [Home Manager](https://github.com/nix-community/home-manager) ⭐ 10,503 | 🐛 986 | 🌐 Nix | 📅 2026-11-07 - Manage your user configuration just like NixOS.
+* [nix-darwin](https://github.com/nix-darwin/nix-darwin) ⭐ 6,059 | 🐛 486 | 🌐 Nix | 📅 2026-10-31 - Manage macOS configuration just like on NixOS.
+* [NixOS hardware](https://github.com/NixOS/nixos-hardware) ⭐ 3,355 | 🐛 336 | 🌐 Nix | 📅 2026-11-07 - NixOS profiles to optimize settings for different hardware.
+* [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) ⭐ 3,152 | 🐛 51 | 🌐 Nix | 📅 2026-11-06 - Modules for running NixOS on the Windows Subsystem for Linux.
 * [Nixvim](https://github.com/nix-community/nixvim) ⭐ 2,980 | 🐛 165 | 🌐 Nix | 📅 2026-11-07 - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
-* [Stylix](https://github.com/nix-community/stylix) ⭐ 2,465 | 🐛 305 | 🌐 Nix | 📅 2026-11-01 - System-wide colorscheming and typography for NixOS.
-* [impermanence](https://github.com/nix-community/impermanence) ⭐ 1,941 | 🐛 109 | 🌐 Nix | 📅 2026-10-23 - Lets you choose what files and directories you want to keep between reboots.
-* [nvf](https://github.com/NotAShelf/nvf) ⭐ 1,667 | 🐛 123 | 🌐 Nix | 📅 2026-11-07 - A portable, modular Neovim configuration framework for Nix.
+* [Stylix](https://github.com/nix-community/stylix) ⭐ 2,466 | 🐛 307 | 🌐 Nix | 📅 2026-11-01 - System-wide colorscheming and typography for NixOS.
+* [impermanence](https://github.com/nix-community/impermanence) ⭐ 1,942 | 🐛 109 | 🌐 Nix | 📅 2026-10-23 - Lets you choose what files and directories you want to keep between reboots.
+* [nvf](https://github.com/NotAShelf/nvf) ⭐ 1,668 | 🐛 123 | 🌐 Nix | 📅 2026-11-08 - A portable, modular Neovim configuration framework for Nix.
 * [nix-topology](https://github.com/oddlama/nix-topology) ⭐ 1,028 | 🐛 28 | 🌐 Nix | 📅 2026-10-20 - Generate infrastructure and network diagrams directly from your NixOS configuration.
-* [musnix](https://github.com/musnix/musnix) ⭐ 967 | 🐛 13 | 🌐 Nix | 📅 2026-11-02 - Do real-time audio work in NixOS.
+* [musnix](https://github.com/musnix/musnix) ⭐ 968 | 🐛 13 | 🌐 Nix | 📅 2026-11-02 - Do real-time audio work in NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) ⭐ 614 | 🐛 61 | 🌐 Nix | 📅 2026-09-21 - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
-* [nix-mineral](https://github.com/cynicsketch/nix-mineral) ⭐ 580 | 🐛 37 | 🌐 Nix | 📅 2026-11-03 - Conveniently and reasonably harden NixOS.
-* [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) ⭐ 517 | 🐛 126 | 🌐 Nix | 📅 2026-11-06 - Modular server management based on NixOS modules and focused on best practices.
-* [base16.nix](https://github.com/SenchoPens/base16.nix) ⭐ 289 | 🐛 3 | 🌐 Nix | 📅 2026-10-17 - Flake way to theme programs in [base16](https://github.com/chriskempson/base16) ⭐ 972 | 🐛 2 | 📅 2023-10-12 colorschemes, mustache template support included.
+* [nix-mineral](https://github.com/cynicsketch/nix-mineral) ⭐ 580 | 🐛 37 | 🌐 Nix | 📅 2026-11-08 - Conveniently and reasonably harden NixOS.
+* [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) ⭐ 519 | 🐛 125 | 🌐 Nix | 📅 2026-11-06 - Modular server management based on NixOS modules and focused on best practices.
+* [base16.nix](https://github.com/SenchoPens/base16.nix) ⭐ 289 | 🐛 3 | 🌐 Nix | 📅 2026-10-17 - Flake way to theme programs in [base16](https://github.com/chriskempson/base16) ⭐ 974 | 🐛 2 | 📅 2023-10-12 colorschemes, mustache template support included.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 
 ## NixOS Configuration Editors
@@ -345,19 +345,19 @@ A curated list of the best resources in the Nix community.
 
 ## Overlays
 
-* [NUR](https://github.com/nix-community/NUR/) ⭐ 1,987 | 🐛 33 | 🌐 Python | 📅 2026-11-07 - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+* [NUR](https://github.com/nix-community/NUR/) ⭐ 1,989 | 🐛 34 | 🌐 Python | 📅 2026-11-08 - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
 * [System Manager](https://github.com/numtide/system-manager) ⭐ 1,795 | 🐛 66 | 🌐 Nix | 📅 2026-11-05 - A non-NixOS Linux system configuration tool built on Nix.
-* [rust-overlay](https://github.com/oxalica/rust-overlay) ⭐ 1,581 | 🐛 25 | 🌐 Nix | 📅 2026-11-07 - Pure and reproducible nix overlay of binary distributed Rust toolchains.
-* [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) ⭐ 626 | 🐛 56 | 🌐 Nix | 📅 2026-11-07 - Bleeding-edge Wayland packages.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) ⭐ 1,581 | 🐛 25 | 🌐 Nix | 📅 2026-11-08 - Pure and reproducible nix overlay of binary distributed Rust toolchains.
+* [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) ⭐ 626 | 🐛 56 | 🌐 Nix | 📅 2026-11-08 - Bleeding-edge Wayland packages.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) ⚠️ Archived - Mozilla's overlay with Rust toolchains and Firefox.
-* [zig-overlay](https://github.com/mitchellh/zig-overlay) ⭐ 561 | 🐛 9 | 🌐 Nix | 📅 2026-11-07 - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
-* [neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) ⭐ 417 | 🐛 1 | 🌐 Nix | 📅 2026-11-07 - Daily bumped Neovim nightly package.
+* [zig-overlay](https://github.com/mitchellh/zig-overlay) ⭐ 561 | 🐛 9 | 🌐 Nix | 📅 2026-11-08 - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
+* [neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) ⭐ 417 | 🐛 2 | 🌐 Nix | 📅 2026-11-08 - Daily bumped Neovim nightly package.
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) ⭐ 103 | 🐛 0 | 📅 2025-04-22 - High Performance Computing package sets.
-* [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) ⭐ 72 | 🐛 3 | 🌐 Nix | 📅 2026-11-07 - Automatically updated Firefox binary packages for macOS.
+* [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) ⭐ 72 | 🐛 3 | 🌐 Nix | 📅 2026-11-08 - Automatically updated Firefox binary packages for macOS.
 
 ## Distributions
 
-* [nixbsd](https://github.com/nixos-bsd/nixbsd) ⭐ 1,083 | 🐛 20 | 🌐 Nix | 📅 2026-10-15 - A NixOS fork with a FreeBSD kernel.
+* [nixbsd](https://github.com/nixos-bsd/nixbsd) ⭐ 1,084 | 🐛 20 | 🌐 Nix | 📅 2026-10-15 - A NixOS fork with a FreeBSD kernel.
 * [NixNG](https://github.com/nix-community/NixNG) ⭐ 506 | 🐛 23 | 🌐 Nix | 📅 2026-08-01 - A GNU/Linux distribution similar to NixOS. The defining difference is a focus on containers and lightweightness.
 * [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
@@ -373,4 +373,4 @@ A curated list of the best resources in the Nix community.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
